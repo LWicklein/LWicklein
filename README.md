@@ -107,5 +107,3 @@ Known for structured troubleshooting, accurate documentation, quality-controlled
 - Refreshing modern endpoint, cloud, security, Linux, Git, and automation skills
 - Building hands-on technical projects through LearnToCloud and GitHub
 - Targeting endpoint support, desktop deployment, Windows refresh, and IT asset-deployment opportunities
-
-<!-- Workflow test: development change from 28Degrees -->
